@@ -36,8 +36,8 @@ public class Picture
     {
         if(!drawn) {
             wall.moveHorizontal(-140);
-            wall.moveVertical(20);
-            wall.changeSize(120);
+            wall.moveVertical(60);
+            wall.changeSize(150);
             wall.changeColor("blue");
             wall.makeVisible();
             
